@@ -3,6 +3,7 @@
  ## Projeto Integrador — UC 10 | Ciência de Dados
 
  Projeto de Machine Learning para prever o desempenho acadêmico de estudantes, classificando-os como **Aprovado** ou **Reprovado**, com base em hábitos de estudo e características de estilo de vida.
+ Dashboard Streamlit: https://studentml-dashboard.streamlit.app/
 
  ## 📊 Dataset
 
